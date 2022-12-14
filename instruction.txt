@@ -1,0 +1,50 @@
+js conditional statements
+
+js conditinal statement are of 2 types
+
+1.IF
+2.Switch
+3.ternary operator
+
+alg alg conditional main alg alg kam agar humye karwana he code se to conditinal statment ka use karte hain.
+
+true/false = boolean data types
+
+hum itne data type pd chuke hain----
+1.string
+2.number
+3.object {}
+4.array
+5.boolean data type
+
+boolean value do hi ho skti he ya to true ya false
+0=false
+1=true // 1 ya or koi bhi number ho true hi rhega
+
+window.alert ko only alert bhi likh sakte hain
+
+
+
+if elseif elseif else
+
+// jab bhi 2 se jiyada conditinal aajati he  to if elseif elseif else ka use karte hain
+ex--
+
+
+10am - 12am = html
+12am - 2pm = css
+2pm - 6pm = js
+
+
+
+|| this is a logical or opretor
+
+&& this is a logical and opretor
+
+&& isme left or right dono value true aani chiye tabhi output true aaayega 
+
+
+
+
+
+
